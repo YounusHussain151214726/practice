@@ -1,0 +1,230 @@
+.h1{
+    width: 99%;
+    height: 180px;
+    background-color: skyblue;
+   margin-top: 5px;
+
+box-shadow: 2px 2px 2px 2px gray;
+border-radius: 2px 2px 2px 2px;
+
+}
+.image2{
+
+}
+.form1{
+
+    margin-top: 3%;
+margin-left: 18%;
+width: 70%;
+}
+.frbt{
+  
+
+    margin-top: 3%;
+margin-left: 18%;
+width: 70%;
+justify-content: center;
+
+
+}
+
+
+.h2,.h4,.h5,.h6{
+
+    color: goldenrod;
+   margin-top: 6%;
+   margin-left: 30%;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-weight: bold;
+   font-size: 40px;
+}
+.form-row{
+ width: 70%;
+margin-top: 8%;
+ margin-left: 15%;
+ 
+}
+.rebt{
+
+    margin-top: 3%;
+margin-left: 40%;
+width: 70%;
+
+
+
+}
+.nav-link{
+
+
+    color: gray;
+font-weight: bold;
+}
+.h3{
+
+    font-weight: bold;
+    color: goldenrod;
+    font-size: 45px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 10%;
+    margin-left: 36%;
+
+
+
+
+}
+.p{
+
+    word-spacing: 5px;
+    font-weight: bold;
+    color: white;
+ font-family: sans-serif;
+ margin-top: 10px;
+ background-color: red;
+ border-radius: 3px 3px 3px 3px;
+padding-left: 10px;
+padding-top: 55px;
+width: 100%;
+height: 200px;
+}
+.back{
+    margin-top: 5px;
+    margin-left: 40%;
+    
+}
+.hom{
+ 
+    width: 90%;
+    height: 270px;
+    background-color: whitesmoke;
+    border-radius: 2px 2px 2px 2px; 
+    box-shadow: whitesmoke;
+    margin-left: 5%;
+    margin-top: 6%;
+    letter-spacing: 1px;
+    
+}
+.cont{
+    background-color: whitesmoke;
+margin-top: 3%;
+margin-left: 5%;
+padding: 5px;
+padding-left: 16px;
+border-radius: 2px 2px 2px 2px; 
+width: 90%;
+}
+
+.carousel-item active,.carousel-item{
+
+    width: 100%;
+    height: 450px;
+    background-repeat: no-repeat;
+
+}
+
+
+.elecimg,.wat{
+
+    margin-top: 4%;
+    margin-left: 6%;
+}
+
+.food,.cloth{
+
+    margin-top: 4%;
+    height: 150px;
+    width: 30%;;
+    margin-left: 6%;
+}
+
+.p12{
+font-size: 25px;
+font-weight: bold;
+
+    
+}
+.footer{
+    height: 30px;
+    width: 98%;
+    border-radius: 3px 3px 3px 3px;
+background-color: tomato;
+margin-left: 1%;
+margin-top: 3%;
+}
+.p13{
+ 
+    font-size: 15px;
+ color: white;
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ padding-top: 5px;
+ padding-left: 50px;
+
+
+}
+@media only screen and (max-width: 600px) {
+    .h1 {
+     
+        width: auto;
+    font-size: 100%;
+    height: auto;
+ 
+    }
+    .h2 {
+     
+        width: auto;
+    font-size: 100%;
+    height: auto;
+    margin-left: 20%;
+ 
+    }
+    .rebt{
+        margin-left: 25%;
+    }
+    .form-row{
+    
+   width: 60%;
+   
+    }
+    .h3{
+
+        font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    .h5,.h6{
+        font-size: 135%;
+margin-left: 19%;
+    }
+.p{
+    height: auto;
+    width: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+.carousel-item,.carousel-item active{
+ 
+ width:auto;
+ height: auto;
+
+}
+.hom{
+ 
+    margin-top: 3%;
+
+
+}
+
+.food,.cloth{
+    width:300%;
+     height:153px;
+    display: flex;
+    flex-wrap: wrap;
+    width: auto;
+    margin-left: 10%;
+}
+
+
+
+
+
+
+  }
